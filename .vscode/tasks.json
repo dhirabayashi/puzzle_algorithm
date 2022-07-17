@@ -15,7 +15,7 @@
                 "-ggdb",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/build/${fileBasenameNoExtension}"
             ],
             "problemMatcher": [
                 "$gcc"
@@ -31,7 +31,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/build/${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"

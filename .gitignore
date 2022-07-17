@@ -1,4 +1,3 @@
-/178fe6702e8a2fae
-/b8e6b935abc49361
-/calc_porland
-/decode_porland
+/build
+# VSCodeの「C_Cpp: Intelli Sense Cache Path」「C_Cpp › Default › Browse: Database Filename」でworkの下を指定
+/work
